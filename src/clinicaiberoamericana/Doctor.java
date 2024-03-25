@@ -46,7 +46,7 @@ public class Doctor extends Persona {
 
     public void setHorarioLaboral(String horarioLaboral) {
         this.horarioLaboral = horarioLaboral;
-        
+        // perdi
     }
     
 }
